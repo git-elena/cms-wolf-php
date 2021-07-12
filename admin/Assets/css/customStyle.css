@@ -1,0 +1,14 @@
+.dashboard h1{
+    margin-top: 17vh;
+}
+.dashboard nav{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.dashboard .container {
+    padding-top: 2em;
+}
+.dashboard .container h3{
+    padding: 1em 0em;
+}
